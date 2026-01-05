@@ -20,3 +20,5 @@ This project is not just a simple translator; it’s a fully functional utility 
 * **Notifications:** Sonner for sleek, non-intrusive user feedback.
 
 Developed with ❤️ by Rehman-dev288 for CodeAlpha.
+
+## 🔗 Live Demo: https://codealphalanguagetranslator.vercel.app/
